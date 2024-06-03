@@ -1,0 +1,12 @@
+[submodule "Contract1"]
+	path = Contract1
+	url = https://github.com/moodster2000/Contract1.git
+[submodule "Contract2"]
+	path = Contract2
+	url = https://github.com/moodster2000/Contract2.git
+[submodule "Contract3"]
+	path = Contract3
+	url = https://github.com/moodster2000/Contract3.git
+[submodule "Contract4"]
+	path = Contract4
+	url = https://github.com/moodster2000/Contract4.git
